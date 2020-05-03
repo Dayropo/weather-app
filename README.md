@@ -1,1 +1,1 @@
-This project is a mockup of a weather app
+This project is a mockup of a weather app.
